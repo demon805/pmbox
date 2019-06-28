@@ -1,8 +1,8 @@
 
 [![Join the chat at https://gitter.im/Product-Manager-CN/community](https://badges.gitter.im/Product-Manager-CN/community.svg)](https://gitter.im/Product-Manager-CN/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# 前言
-先随便写一个，让这项目有个Readme可以看吧。
-# 前言
+# 说明
 
-先随便写一个，让这项目有个Readme可以看吧。
+建一个产品经理的项目吧。
+持续的总结一下，产品经理需要的工具，并持续更新上来。
+这些工具并不是指的Axure这些东西，而是一些所需的表格等
